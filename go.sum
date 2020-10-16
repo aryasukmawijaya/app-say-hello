@@ -2,3 +2,5 @@ github.com/aryasukmawijaya/go-say-hello v1.0.0 h1:1hkvHyE4eXUZXF+u1m6i31p+8m4PVM
 github.com/aryasukmawijaya/go-say-hello v1.0.0/go.mod h1:2vsff4yOlVpa8dsW9OSWokQKvRfbkGGSD5JSake1Ue4=
 github.com/aryasukmawijaya/go-say-hello v1.5.0 h1:wsKzTGBPnVFKR++htfRnglbDvPi8+0UQgDQL0GUkzfs=
 github.com/aryasukmawijaya/go-say-hello v1.5.0/go.mod h1:2vsff4yOlVpa8dsW9OSWokQKvRfbkGGSD5JSake1Ue4=
+github.com/aryasukmawijaya/go-say-hello/v2 v2.0.0 h1:34G0F9vA2TIslUklEs+R/lhjvMy9+StHsYBKxewd/js=
+github.com/aryasukmawijaya/go-say-hello/v2 v2.0.0/go.mod h1:umKpnRGD/rwfu86ScfE0oltql1JguWfQJaFUOy9hXXQ=
